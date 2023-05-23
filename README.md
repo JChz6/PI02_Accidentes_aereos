@@ -72,6 +72,7 @@ Se plantean 4 KPIs, uno de ellos solicitado por el cliente:
 El objetivo es reducir este indicador en un 5% con respecto al año anterior
 <br>
 <br>
+
 $$
 \frac{Total de Fallecidos}{Total de Personas a Bordo} *100
 $$
@@ -94,10 +95,12 @@ $$
 **3. Tasa de mortalidad completa:**
 Indica el porcentaje de accidentes en los que todas las personas a bordo murieron.
 <br>
+
 $$
 \frac
 {Accidentes con Mortalidad Total}{Total de accidentes}*100
 $$
+
 <br>
 
 
@@ -105,9 +108,11 @@ $$
 **4. Accidentes por Millón:**
 Indica la proporción de vuelos accidentados por cada millón de vuelos que despegaron. El objetivo para este indicador es reducirse en un 0.001% con respecto al año anterior
 <br>
+
 $$
 \frac{Total de vuelos accidentados}{Total de vuelos}* 10^5
 $$
+
 <br>
 <hr>
 <br>
